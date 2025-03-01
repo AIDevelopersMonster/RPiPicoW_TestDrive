@@ -26,3 +26,9 @@ Key Features:
 
 Whether you're just getting started with the Raspberry Pi Pico or looking to expand your skillset, the Kontakts Professional Kit provides everything you need for your next project.
 The Raspberry Pi Pico is a tiny dual core ARM based microcontroller. More information on the Pico can be found on the Pi website: https://www.raspberrypi.org/products/raspberry-pi-pico/
+Drag-and-Drop MicroPython 
+
+You can program your Pico by connecting it to a computer via USB, then dragging and dropping a file onto it so we’ve put together a downloadable UF2 file to let you install MicroPython more easily.
+Your browser does not support the video tag.
+
+https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
