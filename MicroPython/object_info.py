@@ -3,7 +3,6 @@
 # Telega MicroPython https://t.me/MrMicroPython
 import math
 print(dir(math))
-import math
 
 # Модуль math в MicroPython предоставляет следующие функции:
 
