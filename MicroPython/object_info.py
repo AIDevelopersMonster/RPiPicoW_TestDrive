@@ -1,5 +1,5 @@
-# Video https://youtu.be/SizM83Xc978
-# Post http://kontakts.ru/showthread.php/40900?p=86260#post86260
+# Video https://youtu.be/EqAJFGF8QHQ
+# Post http://kontakts.ru/showthread.php/40900?p=86261#post86261
 # Telega MicroPython https://t.me/MrMicroPython
 import math
 print(dir(math))
