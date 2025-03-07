@@ -1,5 +1,5 @@
 # Video https://youtu.be/EC6h8g2WtJ8
-# Post http://kontakts.ru/showthread.php/40902?p=86268#post86268
+# Post http://kontakts.ru/showthread.php/40902?p=86266#post86266
 # Telega https://t.me/MrMicroPython
 #
 
