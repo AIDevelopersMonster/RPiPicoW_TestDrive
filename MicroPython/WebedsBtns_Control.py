@@ -1,3 +1,7 @@
+# Video https://youtu.be/K81fellve8E
+# Post http://kontakts.ru/showthread.php/40...6267#post86267
+# Telega https://t.me/MrMicroPython
+
 import wifi_init
 import socket
 from machine import Pin
